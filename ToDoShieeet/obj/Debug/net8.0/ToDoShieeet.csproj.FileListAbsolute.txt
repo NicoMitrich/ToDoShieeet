@@ -1,0 +1,17 @@
+C:\Users\Mitrich\source\repos\ToDoShieeet\ToDoShieeet\bin\Debug\net8.0\ToDoShieeet.exe
+C:\Users\Mitrich\source\repos\ToDoShieeet\ToDoShieeet\bin\Debug\net8.0\ToDoShieeet.deps.json
+C:\Users\Mitrich\source\repos\ToDoShieeet\ToDoShieeet\bin\Debug\net8.0\ToDoShieeet.runtimeconfig.json
+C:\Users\Mitrich\source\repos\ToDoShieeet\ToDoShieeet\bin\Debug\net8.0\ToDoShieeet.dll
+C:\Users\Mitrich\source\repos\ToDoShieeet\ToDoShieeet\bin\Debug\net8.0\ToDoShieeet.pdb
+C:\Users\Mitrich\source\repos\ToDoShieeet\ToDoShieeet\obj\Debug\net8.0\ToDoShieeet.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mitrich\source\repos\ToDoShieeet\ToDoShieeet\obj\Debug\net8.0\ToDoShieeet.AssemblyInfoInputs.cache
+C:\Users\Mitrich\source\repos\ToDoShieeet\ToDoShieeet\obj\Debug\net8.0\ToDoShieeet.AssemblyInfo.cs
+C:\Users\Mitrich\source\repos\ToDoShieeet\ToDoShieeet\obj\Debug\net8.0\ToDoShieeet.csproj.CoreCompileInputs.cache
+C:\Users\Mitrich\source\repos\ToDoShieeet\ToDoShieeet\obj\Debug\net8.0\ToDoShieeet.dll
+C:\Users\Mitrich\source\repos\ToDoShieeet\ToDoShieeet\obj\Debug\net8.0\refint\ToDoShieeet.dll
+C:\Users\Mitrich\source\repos\ToDoShieeet\ToDoShieeet\obj\Debug\net8.0\ToDoShieeet.pdb
+C:\Users\Mitrich\source\repos\ToDoShieeet\ToDoShieeet\obj\Debug\net8.0\ToDoShieeet.genruntimeconfig.cache
+C:\Users\Mitrich\source\repos\ToDoShieeet\ToDoShieeet\obj\Debug\net8.0\ref\ToDoShieeet.dll
+C:\Users\Mitrich\source\repos\ToDoShieeet\ToDoShieeet\obj\Debug\net8.0\ToDoShieeet.csproj.AssemblyReference.cache
+C:\Users\Mitrich\source\repos\ToDoShieeet\ToDoShieeet\bin\Debug\net8.0\Newtonsoft.Json.dll
+C:\Users\Mitrich\source\repos\ToDoShieeet\ToDoShieeet\obj\Debug\net8.0\ToDoShie.6438592C.Up2Date
